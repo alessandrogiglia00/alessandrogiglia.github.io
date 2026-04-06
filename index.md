@@ -12,7 +12,7 @@ My PhD project is supervised by Prof. Øystein Linnebo and is funded by the ERC 
 I obtained my master's degree from the University of the Italian Switzerland in 2024 and my bachelor's degree from the Catholic University of Milan in 2022. 
 
 This website collects:
-- my **CV**,
+- My CV (PDF):** [cv.pdf](/cv.pdf)
 - short **blog posts and news**,
 - and my **papers and drafts**.
 
